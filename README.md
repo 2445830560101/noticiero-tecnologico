@@ -31,6 +31,7 @@ Aplicación web que muestra noticias tecnológicas con autores aleatorios, consu
 
 
  Edy Donaldo Lóppez Anavizca - @2445830560101 - edygeeklopez@gmail.com 
+ 
  Proyecto: https://github.com/2445830560101/noticiero-tecnologico
  
  
